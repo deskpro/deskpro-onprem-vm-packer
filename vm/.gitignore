@@ -1,0 +1,5 @@
+/packer_cache
+/output-hyperv
+/output-virtualbox
+/output-vmware
+/esxi.auto.pkrvars.json

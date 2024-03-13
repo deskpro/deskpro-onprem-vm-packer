@@ -1,0 +1,8 @@
+.terraform*
+.terraform.lock.hcl
+.terraform.tfstate.lock.info
+.test-data
+*.tfstate
+*.tfstate.backup
+*.pem
+secrets
